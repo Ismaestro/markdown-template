@@ -1,3 +1,30 @@
+<span style="display:block;text:align:center">
+  <a href="https://shields.io/github/languages/top/Ismaestro/markdown-template.svg?style-for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/Ismaestro/markdown-template.svg?style=for-the-badge" alt="language-used"/>
+  </a>
+
+  <a href="https://github.com/Ismaestro/markdown-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Ismaestro/markdown-template/network/members">
+    <img src="https://img.shields.io/github/forks/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Ismaestro/markdown-template/stargazers">
+    <img src="https://img.shields.io/github/stars/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Ismaestro/markdown-template/issues">
+    <img src="https://img.shields.io/github/issues/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Ismaestro/markdown-template/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/github/license/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+</span>
+<br>
+
 <p align="center">
   <a href="https://example.com/">
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
@@ -17,6 +44,7 @@
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
