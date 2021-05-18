@@ -19,10 +19,11 @@
     <img src="https://img.shields.io/github/issues/Ismaestro/markdown-template.svg?style=for-the-badge">
   </a>
 
-  <a href="#LICENSE.md">
+  <a href="https://github.com/Ismaestro/markdown-template/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/Ismaestro/markdown-template.svg?style=for-the-badge">
   </a>
 </span>
+<br>
 
 <p align="center">
   <a href="https://example.com/">
